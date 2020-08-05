@@ -1,0 +1,12 @@
+//permaList
+//use one of them to make request
+//5f27286fd16ffd10b0a6cdbc
+//5f286e6ae3c4ae077058cbcb
+//5f2870391d03a34180ff45c9
+
+PUT http://localhost:3001/api/persons/5f2870391d03a34180ff45c9
+Content-Type: application/json
+
+{
+    "number" : "122-44662"
+}

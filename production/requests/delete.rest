@@ -1,0 +1,7 @@
+//permaList
+//keep the following documents for testing
+//5f27286fd16ffd10b0a6cdbc
+//5f286e6ae3c4ae077058cbcb
+//5f2870391d03a34180ff45c9
+
+DELETE http://localhost:3001/api/persons/5f29b2051a9782222c474ad9

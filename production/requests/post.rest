@@ -1,0 +1,13 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+//correct
+# {
+# "name": "Halie",
+# "number": "040-55544"
+# }
+
+//will get a validation error
+{
+"name": "Ha",
+"number": "040-55544"
+}
